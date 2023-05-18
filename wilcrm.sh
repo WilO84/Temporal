@@ -88,7 +88,7 @@ sudo apt install -y git python3-dev python3-pip build-essential wget python3-ven
 libzip-dev libldap2-dev libsasl2-dev python3-setuptools node-less libjpeg-dev gdebi
 
 # install libssl
-sudo apt -y install libssl1.1
+#sudo apt -y install libssl1.1
 
 #--------------------------------------------------
 # Install Python pip Dependencies
